@@ -5,6 +5,13 @@ format: jb-book
 root: content/index
 
 chapters:
-  - file: content/papers
-  - file: content/art
-  - file: content/blog
+  - title: "Professional"
+    sections:
+      - file: content/professional/cv
+      - file: content/professional/work
+  - title: "Hobby"
+    sections:
+      - file: content/hobby/paintings
+      - file: content/hobby/photography
+      - file: content/hobby/writing
+      - file: content/hobby/hiking
