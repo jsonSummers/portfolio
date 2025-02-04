@@ -2,16 +2,16 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: content/index
+root: content/index.md
 
 chapters:
   - title: "Professional"
     sections:
-      - file: content/professional/cv
-      - file: content/professional/work
+      - file: content/professional/cv.md
+      - file: content/professional/work.md
   - title: "Hobby"
     sections:
-      - file: content/hobby/paintings
-      - file: content/hobby/photography
-      - file: content/hobby/writing
-      - file: content/hobby/hiking
+      - file: content/hobby/paintings.md
+      - file: content/hobby/photography.md
+      - file: content/hobby/writing.md
+      - file: content/hobby/hiking.md
